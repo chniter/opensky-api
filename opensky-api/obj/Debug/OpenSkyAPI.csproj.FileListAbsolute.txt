@@ -1,0 +1,7 @@
+c:\users\pmareke\documents\visual studio 2015\Projects\opensky-api\opensky-api\bin\Debug\opensky-api.dll
+c:\users\pmareke\documents\visual studio 2015\Projects\opensky-api\opensky-api\bin\Debug\opensky-api.pdb
+c:\users\pmareke\documents\visual studio 2015\Projects\opensky-api\opensky-api\bin\Debug\Newtonsoft.Json.dll
+c:\users\pmareke\documents\visual studio 2015\Projects\opensky-api\opensky-api\bin\Debug\Newtonsoft.Json.xml
+c:\users\pmareke\documents\visual studio 2015\Projects\opensky-api\opensky-api\obj\Debug\opensky-api.dll
+c:\users\pmareke\documents\visual studio 2015\Projects\opensky-api\opensky-api\obj\Debug\opensky-api.pdb
+c:\users\pmareke\documents\visual studio 2015\Projects\opensky-api\opensky-api\obj\Debug\OpenSkyAPI.csprojResolveAssemblyReference.cache

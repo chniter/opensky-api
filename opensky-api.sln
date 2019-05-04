@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSkyAPI", "opensky-api\OpenSkyAPI.csproj", "{7C857F87-02BB-4CE8-B4AF-31D6CA31B12E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSky", "OpenSky\OpenSky.csproj", "{9DEDEF37-3425-49C1-9D95-FF1F9DEA5C09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSky.Test", "OpenSky.Test\OpenSky.Test.csproj", "{E720D66B-0651-4F22-BBF6-CF3C8B0FF0AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C857F87-02BB-4CE8-B4AF-31D6CA31B12E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C857F87-02BB-4CE8-B4AF-31D6CA31B12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C857F87-02BB-4CE8-B4AF-31D6CA31B12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C857F87-02BB-4CE8-B4AF-31D6CA31B12E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DEDEF37-3425-49C1-9D95-FF1F9DEA5C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DEDEF37-3425-49C1-9D95-FF1F9DEA5C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DEDEF37-3425-49C1-9D95-FF1F9DEA5C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DEDEF37-3425-49C1-9D95-FF1F9DEA5C09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E720D66B-0651-4F22-BBF6-CF3C8B0FF0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E720D66B-0651-4F22-BBF6-CF3C8B0FF0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E720D66B-0651-4F22-BBF6-CF3C8B0FF0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E720D66B-0651-4F22-BBF6-CF3C8B0FF0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
