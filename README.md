@@ -40,8 +40,7 @@ will output something like this:
     'position_source': 0
     ],...
   ],
-  'time': 1507203250,
-  ...
+  'time': 1507203250
 }
 ```
 
