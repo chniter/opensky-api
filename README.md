@@ -18,7 +18,7 @@ WIP
 
 will output something like this:
 
-```json
+```
 {
   'states': [
     StateVector(dict_values(['c04049', '', 'Canada', 1507203246, 1507203249, -81.126, 37.774, 10980.42, False, 245.93, 186.49, 0.33, None, 10972.8, None, False, 0])),
